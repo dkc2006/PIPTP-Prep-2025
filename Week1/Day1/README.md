@@ -7,3 +7,4 @@
 - [Problem 3](https://github.com/dkc2006/PIPTP-Prep-2025/blob/main/Week1/Day1/solution3.md)
 - [Problem 4](https://github.com/dkc2006/PIPTP-Prep-2025/blob/main/Week1/Day1/solution4.md)
 - [Problem 5](https://github.com/dkc2006/PIPTP-Prep-2025/blob/main/Week1/Day1/solution5.md)
+- [Problem 6](https://github.com/dkc2006/PIPTP-Prep-2025/blob/main/Week1/Day1/solution6.md)
